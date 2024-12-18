@@ -49,4 +49,3 @@ Se você identificar qualquer atividade suspeita ou incidente de segurança, sig
 ## 👥 Contato
 
 - E-mail: **[seginfo@zilor.com.br]**
-- Teams: **seginfo**
