@@ -42,7 +42,6 @@ Se você identificar qualquer atividade suspeita ou incidente de segurança, sig
 1. Envie um e-mail para **[seginfo@zilor.com.br]**.
 	- Descreva detalhadamente o problema, incluindo logs ou capturas de tela relevantes.
 	- Não compartilhe informações sensíveis fora dos canais autorizados.
-2. Abri um chamado no [Qualitor](https://zilor.qualitorsoftware.com/login.php)
 
 ---
 
